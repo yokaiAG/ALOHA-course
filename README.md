@@ -1,5 +1,7 @@
 # ALOHA-course
 This is the code related to the lab exercise in Python about MAC competitive protocols (ALOHA, CSMA).
+The course is taught at Telecom ParisTech (Paris, France) for the course TELECOM204.
+
 The code contains two simulation exercises to familiarize students with the ALOHA protocol.
 
 Exercise 1: ALOHA synchronous
